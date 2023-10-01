@@ -7,3 +7,11 @@ This application was built primarily in React and uses a GPT-powered travel bot 
 The model used is GPT-3.5, and the Kiwi Flight API is used to dynamically suggest flights based on user inputs.
 
 Experiments with passing functions into the context of a GPT bot.
+
+
+Must initialize .env file with fields 
+
+OPENAI-KEY=
+
+and 
+ORG-KEY=
